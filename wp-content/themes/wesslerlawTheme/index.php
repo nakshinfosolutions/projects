@@ -16,7 +16,7 @@
 ?>
 <?php get_header();?>
     <!-- middle content -->
-    <div class="container testinggit">
+    <div class="container">
     <div class="abttxt">
     	<?php if ( have_posts() ) : ?>
 
