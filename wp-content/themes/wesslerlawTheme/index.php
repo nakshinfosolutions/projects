@@ -16,7 +16,7 @@
 ?>
 <?php get_header();?>
     <!-- middle content -->
-    <div class="container">
+    <div class="container pradeesaini">
     <div class="abttxt">
     	<?php if ( have_posts() ) : ?>
 
