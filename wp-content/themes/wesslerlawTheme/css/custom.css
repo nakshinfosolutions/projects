@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.tbg{ background-image:url(../img/tbg.jpg); background-repeat: no-repeat; background-size:cover; background-position:center}
+
+.tsld{ background-image:url(../img/sldbg.jpg); background-repeat:no-repeat; background-position:center top; background-size:cover; min-height:479px; text-align:center}
+
+
+.abttxt h2{ padding:15px 0px 10px 0px; margin:15px 0px 10px 0px; border-bottom:2px solid #b0bde6; font-size:28px; color:#FFF;}
+
+footer{ position:relative; padding:130px 0px 10px 0px; background-color:#484848; margin-top:80px; font-size:12px; color:#FFF; text-align:center; background-image:url(../img/footer_btm.jpg); background-position:center; background-repeat:no-repeat}
